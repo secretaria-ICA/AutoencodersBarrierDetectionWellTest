@@ -37,6 +37,7 @@ Este trabalho utilizou um conjunto de 10.000 testes de formação sintéticos. E
 |_Porosidade_*|20%|20%|20%|
 |_Compressibildade total (cm2/kgf)_*|1e-5|1e-5|1e
 |_Viscosidade — $\mu (cp)$_*|1|1|
+
 \* As propriedades marcadas com * não tiveram variação entre os modelos
 
 Cada um dos reservatórios foi submetido ao esquema de fluxos e estáticas apresentado abaixo.
@@ -60,7 +61,7 @@ Porém, como as variações de pressão são proporcionais ao logaritmo da varia
 
 4. Contendo o logaritmo dos dados do conjunto 1;
 5. Contendo o logaritmo dos dados do conjunto 2;
-6. Contendo o logaritmo dos dados do conjunto 3;
+6. Contendo o logaritmo dos dados do conjunto 3.
 
 ### Redes autoencoders
 
