@@ -1,7 +1,7 @@
 # Autoencoders para detecção de esquemas de barreiras
 
 #### Aluno: [Rodrigo Araújo](https://github.com/rodrigoaraujo01)
-#### Orientador: [Leonardo Mendoza](https://github.com/link_do_github).
+#### Orientador: Leonardo Mendoza.
 
 ---
 
