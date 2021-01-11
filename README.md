@@ -1,7 +1,7 @@
 # Título do Trabalho
 
 #### Aluno: [Rodrigo Araújo](https://github.com/rodrigoaraujo01)
-#### Orientador(/a/es/as): [Leonardo Mendoza](https://github.com/link_do_github).
+#### Orientador: [Leonardo Mendoza](https://github.com/link_do_github).
 
 ---
 
@@ -9,7 +9,7 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 - [Link para o código](https://github.com/rodrigoaraujo01/AutoencodersBarrierDetectionWellTest).
 
-- [Link para o relatório](https://github.com/rodrigoaraujo01/AutoencodersBarrierDetectionWellTest/Report.md).
+- [Link para o relatório](https://github.com/rodrigoaraujo01/AutoencodersBarrierDetectionWellTest/blob/master/Report.md).
 
 ---
 
