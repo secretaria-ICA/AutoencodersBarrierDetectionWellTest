@@ -9,6 +9,8 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 - [Link para o código](https://github.com/rodrigoaraujo01/AutoencodersBarrierDetectionWellTest).
 
+- [Link para o relatório](https://github.com/rodrigoaraujo01/AutoencodersBarrierDetectionWellTest/Report.md).
+
 ---
 
 ### Resumo
