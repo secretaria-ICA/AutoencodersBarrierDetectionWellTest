@@ -1,15 +1,15 @@
-# Autoencoders para detecção de esquemas de barreiras
+# Autoencoders para Detecção de Esquemas de Barreiras
 
-#### Aluno: [Rodrigo Araújo](https://github.com/rodrigoaraujo01)
-#### Orientador: Leonardo Mendoza.
+#### Aluno: [Rodrigo Araújo](https://github.com/rodrigoaraujo01).
+#### Orientador: [Leonardo Forero Mendonza](https://github.com/leofome8).
 
 ---
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-- [Link para o código](https://github.com/rodrigoaraujo01/AutoencodersBarrierDetectionWellTest).
+- [Link para o código](Autoencoders%20para%20detecção%20de%20esquemas%20de%20barreiras.ipynb).
 
-- [Link para o relatório](https://github.com/rodrigoaraujo01/AutoencodersBarrierDetectionWellTest/blob/master/Report.md).
+- [Link para o relatório](Report.md).
 
 ---
 
